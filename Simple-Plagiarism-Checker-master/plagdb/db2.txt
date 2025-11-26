@@ -1,0 +1,866 @@
+PI	anudeepreddynallamada@gmail.com
+Sum	Professional Summary:
+Sum	IT professional with 8+ years of IT experience in designing and developing N-tier applications based on OOPS (Object Oriented Programming), Internet and Intranet, Client-Server Architecture using Java/J2EE and supporting technologies.
+Sum	Strong Experience in developing user interfaces with HTML, DHTML, XML and CSS.
+Sum	Experienced in processing, validating, parsing and extracting data from .xml file.
+Sum	Worked with scripting languages like JavaScript, JQuery.
+Sum	Well versed in MVC (Model View Controller) architecture using Spring, JSF and implementing JSTL (JSP Standard Tag Library), custom tag development and tiles.
+Sum	Experience in JSP, Java Beans and Servlets for developing applications using MVC architecture.
+Sum	Good exposure in implementing web services-WSDL using SOAP protocol.
+Sum	Experienced in Persistence Framework like Hibernate ORM (Object Relational Mapping) in a typical n-tier architecture.
+Sum	Experienced in build tools like ANT and Maven.
+Sum	Experienced in using testing Frameworks like JUnit and JMockit.
+Sum	Experienced in using logging tools like Intellij and Log4j.
+Sum	Hands on experience on Web/Application servers such as Apache Tomcat, JBoss, WebLogic and Web Sphere.
+Sum	Experienced in developing various UML designs like class diagrams, cases and sequence diagrams using Rational Rose.
+Sum	Worked on different platforms like Windows 2003 Server, Windows 2000 Professional, Windows XP, Windows […] UNIX and LINUX.
+Sum	Experience in using UML like Rational Rose and MS Visio
+Sum	Well versed in using version control tools like SVN, Clear Case and CVS.
+Sum	Strong experience in using IDEs like Eclipse, NetBeans and RAD
+Sum	Developed projects and products using Agile Methodology, SDLC (Software development life cycle), from initiation, planning, designing, execution, implementation and Maintenance.
+Edu	Education:
+Edu	Bachelor of Engineering in Computer Science and Engineering JNTU, Hyderabad, India. 2009
+Skill	Technical Skills:
+Exp	PROFESSIONAL EXPERIENCE:
+Exp	Wind Stream Communication, Dallas, TX SEP-2016 -TILL DATE
+Exp	Role: Sr Java Programmer
+Exp	Responsibilities:
+Exp	• Involved in the application development using Java platform. Model View Control (MVC) structure implementation. • Responsible for providing the client-side JavaScript validations and usage of HTML, JavaScript, XML, JSP, CSS as per the requirements to enhance the Portal UI. • Used Spring Core for Dependency Injection. • Mapping of ORM objects to tables using the Hibernate as the persistence framework. • Involved in different service classes, used across the framework. • Implementation of Web Services using Axis for the integration of different systems • Developed applications using J2EE technologies like Spring Boot, Spring MVC on the business layer and the persistent layer using Hibernate as ORM tool. • Testing of Web Services using the Postman. • Used HTML, CSS, Spring MVC, JSP, and jQuery, JavaScript, Angular.js in the development and the designing the UI. • Gradient effects through the development of the CSS style sheets. Developed navigation, icons and layouts. • Code review and configuration build management for the application using Maven. • Implementation of business logic, validation Frame Work using Spring Web flow and Spring MVC. • Implemented Web tier of the application through the usage of Spring MVC framework. • Implementation of clean separation of layers through the usage of different design patterns like Factory pattern, Singleton and DAO pattern. • Serialization in the flattening of the objects. • Used core java concepts like Collections while developing server-side services. • Data storage using DB2 and used PL/SQL for queries. • Worked with IBM Web Sphere Application Server Developer Tools for Eclipse by using lightweight set of tools to assemble, develop and deploy Java EE, Web 2.0, and mobile applications. • Involved with GUI using JSP, Java Script and HTML. • Involved in using continuous integration tool (CI/CD) Jenkins. Created builds using Maven and pulled the project code from GitHub repositories. • Experience with Garbage collection and multithreading. • Experience with Concurrency, Exception Handling, File handling
+Exp	Environment: HTML, CSS, XML, SOAP, Hibernate, Java,J2EE,Java Script,MySQL DB, Spring Boot, PL/SQL, Log4j, JQuery, Angular JS, Eclipse, IBM Web Sphere Application server.
+Exp	IBM DALLAS,TEXASSEP 2015–AUG 2016
+Exp	Role: Sr Java Programmer
+Exp	Responsibilities:
+Exp	Involved in SDLC Requirements gathering, Analysis, Design, Development and Testing of application using AGILE methodology (SCRUM).
+Exp	Designed APIs and analytics using IBM Cloud. Built mobile backend services, powerful app management, and insights into app usage using IBM mobile first.
+Exp	Designed DOM based interactive to reprogram selected links and adopted WCAG 2.0 standards for HTML and XHTML and W3C standards for CSS as well.
+Exp	Have achieved proficiency in Unit Test, Mock, Test Driven Development etc.
+Exp	Implemented client-side Interface using React JS. Worked on Redux.
+Exp	Design, develop and test HTML, CSS, jQuery and React.JS that meets accessibility and web browser standards for car dealerships websites.
+Exp	Installed, configured and Administered WebSphere Commerce Server 6.0 on Windows and Linux platform.
+Exp	Involved in Stopping/Starting & Monitoring the logs for Application Server Instances.
+Exp	Implemented Horizontal and Vertical Clustering, Performance tuning and troubleshooting of IBM WebSphere Application Server 6.0/6.1.
+Exp	Installed EARs, WARs and configured application specific JVM settings, Web container parameters using the Admin Console and WSCP/WSadmin scripts.
+Exp	Migrated existing applications from WebSphere V6.0 to V7.0.
+Exp	Involved in issues like Application not responding. Application Deployment Errors, Wrong Database host name, Server Hung due to out of memory or thread hanging, Owner ship issue.
+Exp	Created sites to organize client contracts and to summarize monthly financial data using React.js, Ember.js, D3.js and MySql.
+Exp	Created web services and desktop applications to access and display data needed by support teams using, Ajax, JavaScript, jQuery, React.js, Angular.js, Node.js, Java, CSS and HTML.
+Exp	Built data visualizations to monitor file server load, Web server speed, Data Processing using D3.js, jQuery and MySql.
+Exp	Prepared exhaustive test cases to comprehensively test functionality and code.
+Exp	Creating Java code and modifying the existing code to match with the front JavaScript files.
+Exp	Created an on -the-fly configuration changes set up, with application saved in Node.js.
+Exp	Environment: Java, JSP, Spring (MVC and Core), JSON, Servlets, Webservices(RESTful), Web Logic Application server, WebSphere Application Server 6.0/6.1/7.0, Websphere Portal Server 6.0/6.1, Websphere Commerce Server 6.0, Apache 2.0.47, IHS 6.0/6.1
+Exp	ACADEMIC BANK KANSAS CITY,MO AUG 2014 – AUG 2015
+Exp	Role: Java Programmer
+Exp	Responsibilities:
+Exp	JSF Portal Framework at Presentation Tier and Faces Servlet acts as the Front Controller.
+Exp	Actively participated and mentoring in requirements gathering, analysis, design, and development and testing phases.
+Exp	Worked one-on-one with client to develop layout, color scheme for his website and implemented it into a final interface design with the HTML5/CSS3 & JavaScript using Dreamweaver.
+Exp	Developed CSS3 style sheets to give gradient effects. Developed page layouts, navigation and icons. Applied industry best practices and standards when project requirements were lagging.
+Exp	Created Images, Logos and Icons that are used across the web pages using Adobe Flash and Photoshop.
+Exp	Designed Frontend with in object oriented JavaScript framework like Angular.JS, Node.js and Ext.JS.
+Exp	Used EXTJS for building rich internet applications, backbone JS & Require JS to optimize in-browser use and to load the module and to improve the Speed.
+Exp	Working on all the latest technologies like HTML5, CSS3, etc. Tackled various issues related browser compatibility to accommodate these advanced and fast technologies
+Exp	Troubleshoot Admin Server start-up issues, Java code defects after deployment, and class path issues by checking the JVM logs, plug-in logs and the Webserver logs
+Exp	Worked closely with developers to define and configured application Servers, Virtual Hosts, Web Applications, Web resources, Servlets, JDBC drivers and Servlet Engines-as well as deployment of EJBs across multiple instances of WebSphere.
+Exp	Maintained security, tuning and clustering on Web Sphere Application Server using IBM Web seal Tivoli Access Manager.
+Exp	Monitored the logs for Application Server Instances.
+Exp	Updated application code from JDK 1.3 to 1.4 using WSAD, RAD and redeployed in a clustered environment.
+Exp	Design and develop solutions using C, C++, Multi-Threaded, Shell Scripting.
+Exp	Debugged the application using Firebug to traverse the documents and manipulated the Nodes using DOM and DOM Functions using Firefox and IE Developer Tool bar for IE.
+Exp	Used JavaScript and XML to update a portion of a web page thus reducing bandwidth usage and load time and add modal dialog in web pages to get user input and requests.
+Exp	Used Soap over Http and Soap over JMS for communication between components.
+Exp	Worked with the team of architects and back-end Developers to gather requirements and enhance the application functionality and add new features.
+Exp	Environment:HTML5, CSS3, JavaScript, jQuery, DOM, DML, DHTML, EXT JS, Angular.js, Node.js, Backbone.js, Require.js, Adobe Flash, Photoshop, Dreamweaver, XML, Apache, SOAP, Internet Explorer, Firefox, Chrome, Oracle, Windows, C, C++, Agile Methodology.
+Exp	VALUE LABS, HYDERABAD, INDIA JUNE 2012 – JULY2014
+Exp	Role: Java Programmer
+Exp	Responsibilities:
+Exp	Utilized the base UML methodologies and Use cases modeled by architects to develop the front-end interface. The class, sequence and state diagrams were developed using Microsoft Visio.
+Exp	Created User Interface (UI) to gather data and communicate with Business Layer by using Swing, HTML, JSP, JSP Tags Lib, JSTL and Java Script.
+Exp	Utilized AJAX to increase web page’s interactivity, speed and functionality.
+Exp	Implemented MVC architecture using Spring 2.5 MVC framework and enhanced the design using Stateless Session Beans for the Middle Tier Development
+Exp	Utilized WSDL and SOAP to implement Web Services to optimize performance by using remote model applications.
+Exp	Used JSF framework for implementing the Web tier of the application.
+Exp	Designed and implemented complex multi-application flow through integration implemented using XML, XSL and JMS configurations.
+Exp	Implemented Object-relation mapping in the persistence layer using hibernate frame work in conjunction with Spring Aspect Oriented Programming (AOP) functionality.
+Exp	Used CVS as a documentation repository and version controlling tool.
+Exp	Used ANT scripts for build creation and to push onto various environments.
+Exp	Used JUnit 4.2 for extensive functional and unit testing code.
+Exp	Used Log4j for logging and debugging.
+Exp	Environment: Core Java, JDK 1.5, J2EE 5, HTML, CSS 2.1, JSP 2.1, JSF 1.2, JNDI, AJAX, Swing, Spring 2.5, Hibernate 3.0, JMS 1.1, SOAP UI, WSDL, UML, XML, XSLT, Windows XP, ANT, UNIX, Log4J, MVC Design Pattern, DAO, Eclipse IDE.
+Exp	Ajr InfoTech, Hyderabad, India AUG-2009 – JUNE-2012
+Exp	Role: Java Developer
+Exp	Responsibilities:
+Exp	Worked on writing Java code for extracting backend data from the main frames.
+Exp	Instantiated business objects with IOC pattern using spring framework and for Dependency Injection.
+Exp	Implemented Object-relation mapping in the persistence layer using Hibernate frame work in conjunction with spring functionality.
+Exp	Agile process is used for tracking and developing the application.
+Exp	Development and Integration of the Application using Eclipse IDE and used StarTeam as Version Control Tool.
+Exp	Implemented the integration with the back-end system with web services using Axis and SOAP
+Exp	Utilized JUnit test cases for all the developed modules.
+Exp	Extensive experience in different IDEs like RAD, Eclipse, NetBeans.
+Exp	Environment: Java, J2EE, Spring Framework, HTML, JavaScript, Hibernate, Eclipse IDE, Star Team, Axis, SOAP, JUnit, RAD, Eclipse, NetBeans.
+PI	Ashok Jayakumar
+PI	Phone No: 734-259-2421
+PI	Venkat@infoservicesllc.com
+PI	CAREER SUMMARY
+Sum	Management and maintenance of banking and automotive supply chain based applications for 12 years spanning the roles of a Developer, Module Lead, Onsite Coordinator, Subject Matter Expert, Business Analyst, Project Manager and Scrum Master.
+Sum	Execute projects using both Waterfall and Agile methodology.
+Sum	Create Business Cases, Request for Proposals and Statement of Work on new projects.
+Sum	Establish Service Management procedures between client and vendors.
+Sum	Create WBS and project plans with inputs from the team.
+Sum	Determine standards, processes and procedures to execute the project.
+Sum	Effective and Efficient communication with identified stakeholders.
+Sum	Direct the Sarbanes-Oxley compliance of changes deployed to production.
+Sum	Oversee quality of deliverables and ensure they meet defined standards.
+Sum	Conduct audits on changes and relevant documentation and track action items to closure.
+Sum	Manage team, remove roadblocks and perform appraisals on individual performance.
+Sum	Solution driver who bridges the gap between business and technology with expertise in managing complex business requirements.
+Sum	Guide offshore teams and onsite teams in planning and execution of projects.
+Sum	Monitor problem areas and devise improvement plans to help business and IT function better.
+Sum	Manage business and technology needs with realistic project commitment and also generate cost-effective solutions within the allocated budget.
+Sum	Chair, own and steer defects triage meetings.
+Sum	Document business functions as Application Information Documents to be used as reference by the entire team and as a value add to existing client documentation.
+Sum	Implement standardized project management methodologies, cost controls, and best practices.
+Sum	Manage daily operations, prioritize work and develop creative solutions to broad issues.
+Sum	Lead initiatives on continuous improvement activities thus reducing year on year cost to clients.
+Sum	Create Proof of Concept to understand requirements of clients and taking it for development.
+Sum	Communicate with the upper management team for obtaining people, resources, share project status and address areas of concern.
+Sum	Suggest optimal solutions to business problems making use of the right tools.
+Sum	Review and suggest designs for User Interfaces on IT applications.
+Sum	Designed and developed a lockbox reporting solution independently.
+Sum	Translate business rules into corresponding IT system rules without any gaps.
+Sum	Protect team from external disturbances and highlight team’s achievements.
+Sum	Gather data, analyze and present cases to clients for starting new projects.
+Sum	Lead meetings and take action items to completion.
+Sum	Create monthly vehicle reports for NHTSA.
+Edu	EDUCATION
+Edu	Bachelor of Engineering in Computer Science and Engineering from Anna University, Chennai, India.
+Skill	IT SKILLS
+Skill	Design and Planning MS Project and Visio
+Skill	Languages: COBOL, SQL, REXX, IMS DC/DB, CICS, JCL, HTML, XML, Java, Java Script
+Skill	Databases: DB2, MS-Access, IMS DB
+Skill	Operating System: Windows, Linux, MVS/OS390
+Skill	Other Software/Tools: HP ITSM, SharePoint, BMC Remedy, Changeman, Endevor, Panvalet, IMS utilities, IBM utilities, BMC Utilities, File-aid, VSAM, SPUFI, MQ Utilities, ISPF, Expeditor, RPC, Elixir, DTCN, Clear Case, Clear Quest, SVN, Systemware.
+Skill	PROFESSIONAL EXPERIENCE
+Exp	Mazda North American Operations, CA, USA Jun 2015 – till date
+Exp	Project Manager/Analyst for Marketing and Sales Operations Projects
+Exp	Initiate and plan implementation of projects. Interact with the business unit for specifications and translate them into application specifications. Study current applications, document and communicate the required information to offshore team for development. Clear hindrances and coordinate with multiple teams for project execution. Demonstrate application usage to business users and improve functions based on their feedback. Provide support for critical issues to ensure smooth functioning of business processes. Report on project performance on a weekly basis and be a liaison between clients and project team. Identify areas of improvement and propose projects to enhance system efficiency.
+Exp	Led and implemented a new critical Brand Experience Program in multiple phases that qualifies millions of dollars in dealer payout based on a defined set of elements and business rules.
+Exp	Provide visual concepts and system behavior.
+Exp	Perform the role of a Scrum Master for projects executed using Agile methodologies.
+Exp	Managed a project for Windows 10 compatibility of applications.
+Exp	Planned and executed projects for modernization of legacy systems.
+Exp	Create business cases and SOWs for new projects.
+Exp	Chair status meetings with offshore and clients.
+Exp	Effectively manage requirement changes by negotiating with clients on when to accommodate the changes without disrupting normal behavior.
+Exp	Work with business unit to resolve dealer payment issues, avoid litigations and to maintain dealer satisfaction.
+Exp	Build and maintain strong client relationship and ensure overall customer delight.
+Exp	Identify gaps in business processes and suggest projects to enhance business operations.
+Exp	Manage a tablet based web application that is used for pitching sales of vehicles at dealerships.
+Exp	Coordinate with application teams to adapt internal dealer applications on mobile devices.
+Exp	Managing and mentoring team with members in multiple remote locations.
+Exp	Conducted technical audits and project health check reviews.
+Exp	Gained two new projects based on the success of the Brand Experience Program.
+Exp	Monitoring the effectiveness of incident and request management and making recommendations for improvement.
+Exp	Suggested User Interface behaviors that became the standard for all application migrations.
+Exp	Managed changes effectively by suggesting alternate solutions thus protecting project baselines.
+Exp	Gained expertise on managing the project and application that enabled team cooperation and recognition from other project managers
+Exp	Obtained appreciations from client on team performance thus increasing their chances of rewards from the organization.
+Exp	Coordinated with various third party DMS vendors such as CDK, R&R, Dealertrack and Arkona in building integrations between DMS systems and native applications.
+Exp	Conducted project closure meetings to get feedback, lessons learnt and improvement opportunities.
+Exp	Scrum Master for a geographically distributed team.
+Exp	Technology - Web Services, XML, Java, Java Script, HTML, Stored Procedures, Mainframes, .Net
+Exp	Mercedes-Benz, NJ, USA Oct 2013 – Jun 2015
+Exp	Project Lead for Dealer Claims, Warranty Systems and Overall Dealer Website Projects
+Exp	Manage the support team and work towards solving reported issues within defined Service Level Agreements. Define workloads and deliverables, mentor team and conduct performance reviews. Plan for bimonthly release of ranked enhancements based on priority and team’s bandwidth. Advice team on providing value added services besides regular work to bring in customer delight and goodwill. Prepare project health status reports and meet with clients every week for review.
+Exp	Proposed for a new project to convert an excel sheet based application into an online application and managed the successful implementation of the project. This helped the business user community to manage all issues related to any vehicle in a systematic way.
+Exp	Initiated the nightly batch cycle time optimization exercise and achieved a 15% reduction of the total cycle time. Earned appreciations from the client for improving the cycle time.
+Exp	Participated in new project proposals showcasing domain knowledge and capability of the organization to execute the projects efficiently.
+Exp	Revised project plan to accommodate new scope of work and also restructured the offshore team to align with the new plan.
+Exp	Automated a manual process that created dealer comparison reports with the help of a series of backend jobs achieving a total effort reduction of 2 days per report.
+Exp	Led a dealer warranty scorecard facelift project to modernize the screen that increased website hits by 36%.
+Exp	Worked with the Scrum Master of a new development project to maintain the Scrum artifacts.
+Exp	Maintained and published trackers on progress of all projects every week to client management.
+Exp	Conducted periodic audits on source changes to track if the changes are relevant to the projects.
+Exp	Maintained multiple development environments shared by multiple teams. Recorded and reported the availability of each environment every week.
+Exp	Performed the first round of User Acceptance Testing before delivery to the clients. Demonstrated application functions to clients for sign-off and deployment to production.
+Exp	Drive calls with offshore team on Incident Management, ageing and backlog tickets.
+Exp	Monitor system for any improvement opportunities and suggest solutions.
+Exp	Technology - Java, Java Script, Mainframes, Remote Procedure Calls
+Exp	Toyota Motor Sales, CA, USA Feb 2009 – Sep 2013
+Exp	Project Lead for multiple Vehicle Supply Chain Applications
+Exp	Lead the enhancements and support of the logistics portfolio of applications. Perform internal IT audits for Sarbanes-Oxley compliance check of all work done by the team. Analyze areas of improvements and start initiatives to implement them. Develop work breakdown structures and implementation schedules.
+Exp	Proposed and materialized a project to automate user access to different applications.
+Exp	Designed and implemented a new version of sales reports to be displayed on mobile devices with a one-page layout.
+Exp	Convinced the incumbent vendor to integrate new applications with the existing user access system instead of creating a new one.
+Exp	Achieved 50% system efficiency by redesigning an events recycling system.
+Exp	Coordinated with external vendor teams to perform a disaster recovery exercise in 3 hours on a cycle that takes about 1 day.
+Exp	Provided business analysis on a logistics application system that helped senior management to bid for a new logistics portfolio.
+Exp	Established the end to end process for incident management and enhancements to be followed by all projects in the engagement.
+Exp	Maintained sales reports used by the Office of the Chief Information Officer.
+Exp	Designed a new sales report that lists sales data of each vehicle series on the company intranet.
+Exp	Created interfaces with Next Generation Telematics system to pass vehicle related information.
+Exp	Tracked enhancements and bug fixes using IBM ClearQuest tool.
+Exp	Performed internal audits on mandatory documentation required for each request for change. Followed-up on audit action items and track them to closure.
+Exp	Created User Acceptance test cases, reviewed results with offshore team and followed-up with Business User Group for sign-off.
+Exp	Maintained the SOX tool that controls the user access thus maintaining data security.
+Exp	Conducted weekly meetings on incident ageing and discuss solutions to address them without causing a breach in SLA.
+Exp	SME for a variety of applications in the Vehicle Supply Chain and also acted as the backup in the absence of a lead for other applications.
+Exp	Gained confidence with the logistics business unit as an expert so much that my solutions were taken as the final solutions without any arguments.
+Exp	Technology - Web Services, XML, Java, Java Script, HTML, Mainframes
+Exp	The Bank of New York Mellon, Offshore Dev Team, India Jun 2005 – Feb 2009
+Exp	Developer/Module Lead/Business Analyst for Reporting and Liquidity Management Systems Projects
+Exp	Design and develop financial service systems based on given specifications. Lead the Balance Reporting module managing a two-member team on development projects. Conduct and drive appraisal meetings, defect management meetings, configuration control meetings and knowledge management meetings.
+Exp	Developed a new Lockbox reporting system that calculates and reports activities on all of the bank’s lockboxes within 3 months.
+Exp	Headed a project that rebranded the entire system after the merger of Mellon Financial Corporation and The Bank of New York.
+Exp	Conducted a system study on effort spent by the team on assigned tasks that helped to change the Statement of Work from a fixed price project to a time and material project.
+Exp	Managed the transition of the account by conducting sessions and creating documents for an external vendor without any interruptions in daily support activities.
+Exp	Educate new team members regarding tools of the trade.
+Exp	Business Analyst for a new balance reporting system to work in an efficient way since the existing system was causing performance issues. The response time was reduced by half as a result of this project.
+Exp	Technology - Web Services, XML, Java, Java Script, HTML, Mainframes.
+PI	Ashwini C
+PI	©732-352-1613
+PI	Sr. Java/J2EE Developer
+Sum	Summary:
+Sum	Around 8+ years of experience in analysis, design, implementation and testing of Object Oriented Applications in Client/Server environments using Java/J2EE.
+Sum	Experienced in Java Application Development, Object Oriented Concepts, Object Oriented Design (OOD), Object Oriented Analysis (OOA), Object Oriented Programming (OOP) and its implementation.
+Sum	Expertise in design and development of various web and enterprise-level applications using Java/J2EE technologies like Spring, Hibernate, XML, Struts framework, EJB, JSF, JSP, JSTL, JQuery, JavaScript, Ajax, JDBC, JMS, JavaBeans and Servlets.
+Sum	Strong experience in implementing Service oriented architecture and Web Services using SOAP, RESTFUL API’s.
+Sum	Worked on micro- service based architecture using spring boot for developing the micro services, Netflix components (eureka, ribbon), spring cloud for supporting the cloud native environment.
+Sum	Developed web applications by implementing Model View Control (MVC) architecture and considerable experience in various front-end technologies.
+Sum	Experienced in developing web applications with Single Page Applications (SPAs) Framework using AngularJS and also good knowledge of NodeJS.
+Sum	Created Typescript reusable components and services to consume REST API's using Component based architecture provided by angular 2.
+Sum	Experienced in frameworks: Jakarta struts framework, JSF, Spring, SpringBoot, SpringBatch, Spring Security, Hibernate.
+Sum	Experience working with Service Oriented Architecture, which includes Universal Description and Discovery Integration (UDDI) lookups and Web Services Description Language (WSDL) using SOAP protocol.
+Sum	Expertise in XML technologies such as DTD/Schemas, DOM, SAX, JAX-B and XSLT.
+Sum	Experience working with Hibernate for mapping Java classes with database and using Hibernate Query Language (HQL).
+Sum	Experience in configuring and deploying the applications on Tomcat, WebSphere, WebLogic and JBoss Servers.
+Sum	Experience working with various SDLC methodologies like Agile Scrum, Domain Driven Design and Waterfall Model.
+Sum	Experienced in writing complex SQL queries, Triggers and Stored Procedures in various databases such as Oracle, DB2 and MySQL.
+Sum	Experienced in Development, testing and deployment of enterprise applications on Windows &UNIX platforms using IDE's such as Eclipse, Rational Application Developer (RAD), IntelliJ and NetBeans.
+Sum	Experience in using different version controlling/tracking systems GIT, CVS, Subversion.
+Sum	Experienced in working with multiple databases like Oracle 10/11g, SQL Server, MySQL, PL/SQL and DB2.
+Sum	Experienced in performing unit testing using JUnit, Mockito integration and deployment of applications using tools such as ANT, Jenkins and Maven& debugging through log4j.
+Sum	Experience in document preparation including Requirement Specification, Analysis,design documents, Test cases and User Training documents and Technical Help documents.
+Sum	Experienced in working with E-Commerce software systems.
+Sum	Excellent verbal, written communication and presentation skills, problem solving and conflict resolution skills.
+Skill	Technical Skills:
+Edu	Education: Bachelor of Electronics and communication Engineering, JNTUH, INDIA
+Exp	Work Experience:
+Exp	Onsite work experience: October 2015 to Present
+Exp	Senior Java Developer
+Exp	FPL/Infosys – Jupiter, Florida – February 2017 to present
+Exp	Description:
+Exp	This project which has been developed on PowerBI tool for monitoring the Dashboard applications. Developed Dashboards on PowerBI desktops, PowerBI.com and PowerBI mobile view.
+Exp	Responsibilities:
+Exp	Worked as the Lead developer in the architecture team to design the application.
+Exp	Worked in agile, Scrum environment and Jira board to update the task on daily basis.
+Exp	Developed Rest Services using Spring Boot. To Rest Call the service which prints the JSON Response from the Database.
+Exp	Developed Unix scripts, Perl scripts and SQL control files to load data through SQL Loader & Oracle data pump.
+Exp	Experience on Database Oracle 11.6, Microsoft SQL Server 2014.
+Exp	Implementing the service layer converting XML to JSON through Restful using JAXB.
+Exp	Implementing the Proxy settings for Data binding the JSON, XML and pushing Datasets to PowerBI.com.
+Exp	Worked in test environment and deployed services on test servers.
+Exp	Create Java Batch jobs for running bulk Queries and datasets to run on PowerBI tool.
+Exp	Environment: Spring 4.0, Spring Boot 1.5.9, Unix scripts, SQL, Oracle 11.6.0, Microsoft SQL Server 2014, maven, Java Batch, Java 8.0.
+Exp	Senior Engineer
+Exp	Target/TCS – Brooklyn Park, Minnesota – February 2016 to February 2017
+Exp	Description:
+Exp	Target Enterprise, Inc Senior Engineer will be responsible for writing, developing and unit testing software and building, testing and implementing infrastructure components to meet design specifications. Worked in a scrum team on backlog items including custom java development and upgrade activities traditional mainframe batch applications will be replaced by java batches and restful services.
+Exp	Responsibilities:
+Exp	Experience in Agile Methodology, SCRUM, KANBAN.
+Exp	Create and maintain APIs utilizing swagger framework backed by JPA data access layer.
+Exp	Design and Implement OAuth2 integration on RESTful APIs.
+Exp	Implementing complex large-scale, real-time Web and Enterprise applications by utilizing Java/J2EE based technologies including Spring MVC, JSP, Ibatis and Web services.
+Exp	Carrying-out the root-cause analysis of Java related incidents, events and problems.
+Exp	Experience in application server (Websphere, Tomcat).
+Exp	Hands on experience in working on Spark-SQL queries, Data frames, import data from Data sources, perform transformations, perform read/write operations, save the results to output directory into HDFS.
+Exp	Manage OpenStack for growing development teams. Build, configure and maintain all instances.
+Exp	Wrote Spring Security based authentication and authorization layer.
+Exp	Extensive experience in developing RESTful Web Services using Apache CXF and Jersey using spring boot.
+Exp	Has knowledge on spring cloud using spring boot for integration, routing and distributed messaging.
+Exp	Implemented Message Forwarder Java Middleware to fetched messages from variety of input
+Exp	module and forwarded data to Kafka cluster.
+Exp	Experience with SQL (Oracle, DB2, DBA) and NoSQL (Postgres) databases.
+Exp	Using test driven development (JUNIT) and building CICD pipeline using Maven, Jenkins(JAYS), Drone Chef and Git.
+Exp	Developed UI components using HTML5, CSS3, Bootstrap and JavaScript for front-end development.
+Exp	Involved in writing application level code to interact with APIs, Web Services using AJAX, JSON and XML.
+Exp	Create Spring Batch jobs for running Bulk Query and used PK chunk method for retrieving data from the portal.
+Exp	Building micro services - Rest web services to support enterprise architecture.
+Exp	Developed Controller classes, DOA classes, beans, JSP's and Data Objects in Java.
+Exp	The build process involves Spinning Up an OpenStack/VMaaS VMs with CentOS on two different Data Centers with complete Load Balancer setup.
+Exp	Merged an existing Angular 2 application into an Angular 3 applications as part of an effort to retire use of AngularJS
+Exp	Implemented an MVC based web application in Scala language using Web Sockets.
+Exp	Used Java 8 lambda expression to represent one method interface and used sequential and parallel streams in collections source.
+Exp	Environment: Spring 4.0, Spring boot 1.5.6, Java 8.0, netbeans, Spring Batch 4.0, maven 3.0, Drone, Chef, Jenkins, Docker, Spring Security, VmaaS, DBA, OpenStack, Kafka, Oauth2, Scala, HTML5, JSP, Spark, Swagger, HDFS, AngularJS 3.
+Exp	Full Stack Developer
+Exp	Verizon- Atlanta, GA – August 2015 to February 2016
+Exp	Description:
+Exp	This project, which has been developed to significantly reduce the development effort of the various developer teams within the organization. RDLU: Remote Door Lock Unlock allows the users to lock or unlock their vehicle using an application on their mobile device.
+Exp	Responsibilities:
+Exp	Worked as a developer in the architecture team to design the application and define standards for other development teams within the organization.
+Exp	Designed and coded application components in an agile environment utilizing a test driven development approach.
+Exp	Extensively used Spring components and concepts like Aspect Oriented programming, Transaction Management, Dependency Injection, DAO and MVC.
+Exp	Designed and developed functionality with excellent understanding of design patterns like singleton, factory and MVC.
+Exp	Implemented service layer offering JSON or XML data through RESTful services using CXF.
+Exp	Implemented REST client using JERSY to consume data from Legacy application.
+Exp	Used Hibernate to do object relational mapping in the application. Involved in creating hibernate mapping files for class associations, inheritances and generating sequences.
+Exp	Used HQL Criteria, Restrictions to retrieve and manipulate data from backend.
+Exp	Developed presentation layer using JSP, JSTL, HTML5, CSS, and jQuery.
+Exp	Knowledge on micro- service based architecture using spring boot for developing the microservices, Netflix
+Exp	components(eureka, ribbon), spring cloud for supporting the cloud native environment.
+Exp	Developed SPA using ReactJS to utilize the HTML5 DOM features and update elements that are modified in the webpage.
+Exp	Develop cross browser compatible web pages quickly and effectively using jQuery, HTML5, CSS3, Responsive Web Design, Bootstrap and Angular JS 3.
+Exp	Experience in Design and development of test automation frameworks for Web applications (responsive, Cross browser) using various Open Source/ Commercial testing tools like Selenium Web Driver/IDE,Testing, JUnit.
+Exp	Used XML technologies like XPath, XSTL for preparing reports.
+Exp	Integrated Hibernate with Spring and configured corresponding xml configuration files.
+Exp	Implemented Java beans with JAXB Annotations for marshalling and un-marshalling of Java Objects.
+Exp	Used SQL Developer tool and written PLSQL functions, procedures, triggers. Involved in tuning performance by creating Indexes.
+Exp	Came up with Test Suites and Test Cases for unit testing and implemented unit testing using JUnit.
+Exp	Involved in Peer Level design and code reviews.
+Exp	Experience writing unit tests and performing and end to end testing.
+Exp	Has experience in CI and CD – Understands Jenkins, GitHub, etc.
+Exp	Used Git for source code management and source tree for managing the code push, pulls and resolving conflicts.
+Exp	Experience Developing application using Groovy, Grails, GSP, GORM, Grails Plugins and Grails Rest
+Exp	Services.
+Exp	Setting up Java/J2EE development environment using Eclipse, Maven and WebLogic.
+Exp	Helped developed Restful API in JAX-RS such as servlet to handle database operation.
+Exp	Built the AngularJS 2 dashboard and supported Java backend.
+Exp	Environment: Core JavaJDK 8, Restful Services, Spring 4.2.6, Webservice, HTML5, CSS3, Java Script, Groovy, AngularJS 2, ReactJS, Maven, Eclipse, JAX-B, JAX-RS/Jersey, JAX-WS, XML and JSON.
+Exp	Java/J2EE Developer
+Exp	Disney- FL – September 2013 to July 2015
+Exp	Description: DIPR (Disney ID for Parks and Resorts): The main purpose of the application is to capture user activity on Disney and its affiliate sites in real time and apply the changes in the database. This application solves the problem of an existing Interface with rules driven, event based (with queuing) interface, to capture all new affiliate registrations, and all updates to known guests providing a recovery mechanism.
+Exp	These projects were developed using Java EE 7, IBM WebSphere Application Server v8.5, drools 6.3, Tomcat 7.0, Spring 3.2, SOAP Web Service, Spring Security, RESTful, Servlet 3.0, JDBC, XML, JSON, Eclipse, JAX-RS, Oracle RDBMS.
+Exp	Responsibilities:
+Exp	Responsible for coordinating the design and implementation activities, collaborated with project managers and engineering teams.
+Exp	Designed and coded application components in an agile environment utilizing a test driven development approach.
+Exp	Worked on providing Authentication to Restful Web services using Authz and OAuth.
+Exp	Developed the application using Java multi threading to enable scheduling and management of the offs tasks to keep up with the huge amount of user records received from CNS.
+Exp	Developed Controllers for Restful services using spring-web mvc.
+Exp	Developed web services callers using Jersey framework.
+Exp	Worked on MVC (Model View Controller) architecture using Springs/Strutsframework and various Java / J2EEdesignpatterns.
+Exp	Experience with third-party APIsExperience with CSS pre-processors.
+Exp	Servers installation and Maintenance of windows 2008 and RedHat 6.x & 7 Linux Server.
+Exp	Designed and Developed Web Services using Restful and SOAP protocols using Elasticsearch.
+Exp	Used Soap-UI and Rest Client for functional testing of the web services.
+Exp	Used the DOM parser to parse xml’s and extensively used javacollections framework.
+Exp	Consuming and exposing various Web services using JAX-RS and JSON to different systems for business services.
+Exp	Involved in creating Database SQL and PL/SQL queries and StoredProcedures.
+Exp	Implemented Singleton pattern for property loading, loading xml’s, jaxb context creation and static data from DB.
+Exp	Worked on performance tuning of the application to greatly improve the efficiency and execution time.
+Exp	Used Hibernate for mapping java classes to the database.
+Exp	Developed web services components using XML, SOAP and Axis2.
+Exp	Developed Database interaction objects by implementing the DAO pattern.
+Exp	Deployed applications on WebSphere application server and tomcat web server.
+Exp	Used Log4j API for logging in the application.
+Exp	Developed web applications on Tomcat server.
+Exp	Used GIT for version control across common source code used by developers.
+Exp	Developed the application using Eclipse.
+Exp	Periodic on-call/after-hours production support for scheduled maintenance routines, quarterly system updates and patches, and other items that affect operations.
+Exp	Supported transition in platform to AngularJS, used Protractor for testing.
+Exp	Environment: Java EE 7, IBM WebSphere Application Server v8.5, Tomcat 7.0, Spring 3.2, Spring Security, Spring 4.2.6, SOAP Web Services, RESTful web services, Servlet 3.0, JDBC, Hibernate, Spring boot 1.2.6, JUNIT 3.8, Eclipse, Log 4j, Axis 2, OAuth 1.4, JAVAX 2.1, D3, JAX-B, JAX-RS/Jersey, JAX-WS, XML, AngularJS, Oracle RDBMS and JSON.
+Exp	Java/J2EE Developer
+Exp	Austin County State Bank - Austin, TX – September 2010 to August 2013
+Exp	Description: Austin County State Bank is a leading property and casualty insurance company based in Texas. Austin County’s safety team works with clients to help protect their employees and their dividend program provides rewards for keeping clients workplace safe. The application developed provides the clients with insurance quotes and forms online. It allows the client to buy insurance online, check policy information, direct bill statues and report claims. This Project was developed using Spring, Hibernate, Struts 2.x, Maven, HTML5, CSS3, JavaScript, JMS, RAD, Oracle Database, Ajax, EJB, JQuery, E-trade,E-Commerce, Websphere Application Server, SOAP and Web Services.
+Exp	Responsibilities:
+Exp	Developed Use case diagrams, Object diagrams, Class diagrams, and Sequence diagrams using UML.
+Exp	The application architecture of the System is based on Spring MVC (Model View Controller) and J2EE specifications.
+Exp	Implemented the application using design patterns such as Session Façade, Business Delegate, Bean Factory, Singleton, Data Access Object, and Service Locator.
+Exp	Implemented Hibernate Template to great extent making use of HQL, Named Parameters, Named Queries and interfaces such as Expression, Query and Criteria.
+Exp	Worked on developing POJO classes to map database tables with java objects.
+Exp	Involved in creating test cases using JUnit strictly following Test Driven Development.
+Exp	Worked on SOA Web Services using SOAP for transmission of large blocks of XML data.
+Exp	Used Maven and Jenkins to automate the build and deploy process.
+Exp	Involved in full project management life cycle from development to integration, testing and release to lower environments.
+Exp	Have managed QA and UAT phases for various large IT implementations in Capital Market.
+Exp	Responsible for all backup, recovery, and upgrading of all the PostgreSQL databases.
+Exp	Responsible for configuring, integrating, and maintaining all Development, QA, Staging and Production PostgreSQL databases within the organization.
+Exp	Experience with performance tuning of code – ex – better file reads, algorithms, handling connections, transactions, Thread –safe and its pro-cons, performance tools, etc.
+Exp	Ability to design frameworks which are extensible and flexible.
+Exp	Used log4j for logging errors in the application.
+Exp	Involved in testing the JMS integration between queues and topics.
+Exp	Used JUnit for unit testing of the application and log4j for logging.
+Exp	jQuery template for markup. Implemented two way data binding through scope in applications built on AngularJS.
+Exp	Environment: Java 7.0, Struts 2.X, Spring, Hibernate, JavaScript, AJAX, EJB, JQuery, HTML5, CSS3, E-Commerce, JMS, JAXP (SAX & DOM), WebSphere Application Server, RAD, AngularJS, Oracle Database, SOAP, Maven, log4j, Junit, XML, Web Services.
+Exp	Senior J2EE Developer
+Exp	GE Healthcare– Hyderabad, INDIA - September 2008 to August 2010
+Exp	Description: GE Healthcare provides transformation medical technologies and services helping to deliver patient care to people around the world. GE provides an online website for the customers. This web website is an e-commerce application which provides an online interface to manage user accounts for the customers to facilitate customers to view, purchase products and request services. This project was developed using Struts 2.0, Hibernate 3.0, HTML5, JSP, JSTL, JMS, JavaScript, XSL, XSLT, Servlets 2.5, RAD, WebSphere Application Server and Oracle 10g.
+Exp	Responsibilities:
+Exp	Designed Use Case and Sequence Diagrams according to UML standard using Rational Rose.
+Exp	Implemented Model View Controller (MVC-2) architecture and developed Form classes, Action Classes for the entire application using Struts Framework.
+Exp	Performed client side validations using JavaScript and server side validations using in built Struts Validation Framework.
+Exp	Designed and developed HTML5, JavaScript, Ajax, XML, MYSQL, apps working in a LINUX Web Server and Apache environment.
+Exp	Implemented the data persistence functionality of the application by using Hibernate to persist java objects to the relational database.
+Exp	Used Hibernate Annotations to reduce time at the configuration level and accessed Annotated bean from Hibernate DAO layer. Used HQL statements and procedures to fetch the data from the database.
+Exp	Transformed, Navigated and Formatted XML documents using XSL, XSLT.
+Exp	Used JMS for asynchronous exchange of message by applications on different platforms.
+Exp	Developed the view components using JSP, HTML5, StrutsLogictags and Strutstaglibraries.
+Exp	Involved in designing and implementation of Session Facade, Business Delegate, Service Locator patterns to delegate request to appropriate resources.
+Exp	Used JUnit Testing Framework for performing Unit testing.
+Exp	Deployed application in WebSphere Application Server and developed using Rational Application Developer RAD.
+Exp	Objectives of securing confidentiality, integrity, and availability of assets, TCP/IP, Host and Network based intrusion detection and prevention systems such as HIPS and NIPS, risk management, incident
+Exp	response, common threats to web application vulnerabilities, penetration testing, designing networking infrastructure and configuring cisco routers and switches.
+Exp	Environment: Struts 2.0, Hibernate 3.0, JSP, RAD, JMS, JavaScript, PHP, XSL, XSLT, Servlets 2.5, WebSphere Application Server and Oracle.
+Sum	PROFILE SUMMARY
+Sum	11 years of work experience in Program Management, Project Management, Strategic Research, Business Analysis, Requirement Elicitation, Identifying root causes and developing work product in Agile (SCRUM) and waterfall SDLC methodologies.
+Sum	Extensive experience in Insurance (Life and P&C) and Banking (Mortgage, claims) domain
+Sum	Go to person regarding all client communications, client escalations, budgeting, reporting and planning.
+Sum	Extensive client facing experience leading strategic Initiatives including offshoring IT projects and systems replacement by working with product partners and geographically diverse teams.
+Exp	SCRUM certified professional experienced in Release management and defining the Project Roadmap, Velocity planning and Leadership reports.
+Sum	Extensive experience in defining project scope, project initiation, implementing planning and strategy and closure as a Scrum Master.
+Sum	Extensive experience to manage the project and track the progress by using the Tools like JIRA.
+Sum	Extensive experience to manage the RISK by using Impact Probability grid and define the mitigation strategy.
+Edu	EDUCATION
+Edu	Masters of Business Administration (M.B.A.) – 2009 – NMIMS University, Mumbai, India
+Edu	Bachelor of Engineering (B.E.) (Computer Engineering) – 2004 – University of Rajasthan, India
+QC	Certifications and Tools:
+QC	Certified Professional Scrum Master™ level I (PSM I)
+Skill	JIRA, Confluence, Microsoft Project, MS Visio, Microsoft Office
+QC	PROFESSIONAL EXPERIENCE 11 YEARS 4 MONTHS
+Exp	Client: DXC Technology Apr ‘17 – Jan’18
+Exp	Role: Senior Manager – DXC Channel
+Exp	Location: Los Angeles/ New York
+Exp	Program Manager handling projects for Metlife account at DXC
+Exp	Single point of contact for all client escalations and new project discussions
+Exp	Responsible for client management and exploring and initializing new projects and opportunities
+Exp	The work profile includes creating a plan to address project goals and working with customer stakeholders/SME’s while owning tracking and resolution.
+Exp	Maintain accurate program reporting information and up-to-date project assets and metrics while identifying risks and roadblocks.
+Exp	Program managing solution roadmap workshops, use case discussions and vendor relations for capability procurement and use case definition.
+Exp	Discussing business performance, value generation and lead generation to track business growth goals
+Exp	Project: Metlife, USA
+Exp	Project Description: G2C is a Java application migrated from mainframe applications which helps the clients to send the most up to date employee information and loaded to consumer database. This data will be used by various portals like member portal, client portal and doctor portal. G2C makes sure that the data coming from the clients is valid and accurate. G2C does all the complex validations, and generate reports for the clients and necessary actions in case of failure to load the data.
+Exp	Role: SCRUM Master/PM
+Exp	Responsibilities:
+Exp	Release coordinator for corporate efforts and define/identify the scope of works
+Exp	Create the Project reports to forecast the future work, team velocity and time taken by each process
+Exp	Define the definition of done and work with Mphasis PM on resource management
+Exp	Coordinate with APO, Business SME’s and Implementation team.
+Exp	Conduct the SCRUM ceremonies like Daily standup, Sprint Planning, Backlog grooming, Sprint Review/Retrospective.
+Exp	Participate/Conduct SCRUM of SCRUMs
+Exp	Manage the production issues and adhoc request by leadership team.
+Exp	Resolve Impediments, conflicts and shields the team.
+Exp	Participate proactively in developing and maintaining standards, tools and best practices.
+Exp	Track, monitor and communicate team metrics and progress.
+Exp	Walkthrough on Burn down chart and Risk management chart.
+Exp	Deflect team distractions, remove execution impediments and escalate issues appropriately.
+Exp	Ensure transparency within and outside of team.
+Exp	Client: USAA Apr ‘15 – Apr’-17
+Exp	Role: Program manager/ Principal Research Analyst
+Exp	Location: San Antonio, Texas
+Exp	Program Manager for CTO Architecture and Strategic Research/Innovation Group at USAA
+Exp	Primarily focused on handling team providing innovative research and approach towards business problems faced by Business and Architects in the IT strategic roadmap planning and execution
+Exp	Responsibilities include leading a team of Research Analysts performing market profiling, identifying desirable functionalities/approach and providing actionable business solutions and approach
+Exp	Understanding the client needs, prioritizing the research with Architecture board and responsible for presenting team KPI and performance metrics to client senior management.
+Exp	An integral part of profile includes bringing product vendor solutions in the lab and performing specific business use cases to validate functionality and client requirements to prepare a comparison score card
+Exp	The deliverables include detailed Project plan, performance metrics, Team forecast, Budget adherence, Research whitepapers, product/approach recommendation and business use case validations
+Exp	Company: HCL Technologies Ltd Feb ‘10 – Apr ’15
+Exp	Role: Deputy Manager
+Exp	Location: Bangalore, India
+Exp	Client Name: Genworth - a leading provider of Lenders Mortgage Insurance (LMI)
+Exp	Industry Sector: Insurance
+Exp	Project Description: We were working with the client in claims administration area. The client was using Guidewire Claims center for Mortgage claims. The scope of work included Application Maintenance, Enhancement and Support and product version upgrade for :
+Exp	Oxygen – This is a claims application based on ClaimCenter V5.0. It includes claims application interfaces, Reporting and Configuration
+Exp	Duration: (Mar 2014 – Apr 2015)
+Exp	Role: SCRUM Master/Business Analyst
+Exp	Responsibilities:
+Exp	Mentored the core IT team to follow Agile practices instead of waterfall and deliver the project using Scrum
+Exp	Gathered requirements from various business teams
+Exp	Created stories out of various requirements and planned for implementing them in various iterations
+Exp	Created a story backlog in JIRA and keeps on updating them accordingly
+Exp	Base lining of all the business artifacts and requirements implemented in each iteration and release accordingly
+Exp	Compliance to schedule and containment of defect leakage
+Exp	Duration: (Feb 2010 - Mar 2014) – Business Solutions Group
+Exp	Proactive proposals, Response to RFP’s and collateral preparation
+Exp	Responsible for end-to-end opportunity life-cycle including bid management & planning, proposal handling, win strategy formulation, solution development, estimations, bid pricing, deal reviews & approvals, proposal defense, due diligence, best & final offer (BAFO) and contract negotiation.
+Exp	Understanding customer pain points and recommending solutions, Market research, and competitive intelligence based on sales pursuits.
+Exp	Strategic Initiatives
+Exp	Spearheaded Solution workshops with clients to validate scope and refine the solution offerings
+Exp	Worked extensively in giving joint proposals with product partner like eBao, CSC etc. to cement long term partnership and evolution of go to market strategy
+Exp	Company: Office Depot Reliance
+Exp	Role: Management Trainee, IT, Supply Chain and Merchandising Jul ‘09 – Feb’10
+Exp	Locations: Navi Mumbai, India
+Exp	Identified problem areas and suggested ways to tackle business issues by data generation and analysis for catalogue marketing campaigns.
+Exp	Redesigning SKU creation process to improve follow ups by defining department specific response time and escalation matrix
+Exp	Involved in process improvements for transparency and better compliance during Supply Chain training.
+Exp	Company: Schneider Electric India
+Exp	Role: Software Engineer Aug ‘04 – May’07
+Exp	Locations: Bangalore, India
+Exp	Led a team for a prestigious firmware verification project, coordinating across four countries.
+Exp	Responsible for project execution, planning, resource requirements, duration, risk analysis and mitigation.
+Exp	Member of steering committee responsible for obtaining quality certification (CMMI Level 3).
+Exp	SUMMER INTERNSHIP TATA COMMUNICATIONS (Corporate Strategy Department)
+Exp	Formulated Market Entry Strategy for TATA Communications in middle-east markets (U.A.E., Qatar and Bahrain)
+Exp	Assessed market attractiveness from the macroeconomic, regulatory and telecom market perspective
+PI	Avanthi Katta
+PI	Sr. Business Analyst
+PI	Ph No: 916-282-9259
+PI	Email ID: sam@vishconsultingservices.com
+Sum	SUMMARY
+Sum	Over Seven years of experience as a Sr. Business Analyst/Quality Analyst.
+Sum	Solid understanding of Business Requirement gathering, Business Process flow, Business Process Modeling and Analysis, design documentation.
+Sum	Experience in all phases of the Software Development Life Cycle (SDLC) including Requirement gathering, Design, Development, Testing and Deployment.
+Sum	Organized Joint Application Development (JAD), workshops and interview sessions.
+Sum	Expertise in Documentation and Review of Software and Business/Technical Requirement Documents.
+Sum	Managed complex business initiatives to balance requirements for functionality, efficiency and quality.
+Sum	Excellent knowledge of Health Insurance Portability and Accountability Act (HIPAA) transaction, code set rules such as EDI 837,270,271,276,277,834,835, NCPDP and ICD9-ICD10.
+Sum	Experienced with Rational tools like ReqPro, Clearquest, Clear Case, Rational soda, Rational Rose.
+Sum	Experienced working in Obama care, Medicare and Medicaid projects.
+Sum	Exceptional Documentation Skills for writing Use Cases and Functional Requirement Documents.
+Sum	Design and review of various documents including the Software Requirement Specifications (SRS), Business Requirements Document (BRD), Use Case Specifications, Functional Specifications (FSD), Systems Design Specification (SDS), Requirement Traceability Matrix (RTM) and testing documents.
+Sum	Strong experience with MS Visio for creating visual representation of Software/Data Architecture, Use Case diagrams (specially in an Agile environment), Sequence diagrams, Class diagrams, Business Process Flows and basic flowcharts.
+Sum	Extensive experience in configuring data mapping of files using Edifacs Specbuilder.
+Sum	Through knowledge of various phases of Edifacs Specbuilder- Analyzer and Mapper.
+Sum	Conducted JAD Sessions to develop an architectural solution that the application meets the business requirements, resolve open issues, and change requests.
+Sum	Good Knowledge of Test Plan, Test Scripts and Test Cases for Functional, System, Integration, UAT, and Regression Testing based on the Design Document for the Functional, Security, and Performance Testing.
+Sum	Excellent written and verbal communication.
+Sum	Consistently demonstrated ability to achieve tight deadlines.
+Skill	AREAS OF EXPERTISE
+Skill	Operating Systems: Win 98/XP/Vista/Windows 7, UNIX, LINUX, Mac.
+Skill	Languages: C, C++, Java, SQL, HTML, XML, C#, VB, ASP, .Net
+Skill	Databases: Oracle, MS SQL server, MS Access, MY SQL
+Skill	Tools: MS Office: Word, Excel, Access, Power point, Project, Visio, Front Office, Rational Rose, SoDA, Software Modeler, Team Test, Doors, PROLOG, Clearcase, Clearquest, WinRunner, LoadRunner, WebSphere, Business Modeler, HP Quality Centre, Ultra Edit, TOAD and Test Director, MMIS, JIRA.
+Skill	Industry Standards: HIPAA 5010, ICD 10, PPACA (Patient Protection and Affordable Care Act)
+PI	PROFESSIONAL PROFILE
+PI	West Virginia State Medicaid, Charleston, WV
+PI	Sr. Business Analyst
+PI	MAY 2014–Present
+PI	The delivery of the 5010 transactions executed in multiple integrated releases along with system upgrade from ICD 9-10 in MMIS.
+Exp	Another project involved helping the department in creating documents for Integrated Eligibility Determination system for Medicaid, QHP and SNAP so it can help later vendor to implement the project effectively.
+Exp	Roles and Responsibilities
+Exp	Worked with client to gather Business/Technical Requirements, Approval of CR (Change request), Design and Implementations for State MMIS.
+Exp	Responsible for designing future state processes for ICD 9-10 Crosswalk Table and drafted High Level Business Requirements for ICD 9-10 conversion mapping.
+Exp	Worked on creating State based Rule requirement document with Rule ID (CFR number).
+Exp	Researched on state based rules, configuration to be implemented in integrated eligibility system.
+Exp	Gained extensive experience in designing/modifying the CICS screens for various areas such as Enrollment, Billing, Provider Record and Reimbursement Status in MMIS..
+Exp	Wrote clear, concise detailed System Requirements Specification(SRS) documents and user documentation in accordance to guidelines and standards of a level where developers can interpret, design and develop the application with minimum guidance
+Exp	Experience in implementation of ICD-9-CM codes and ICD-10-CM codes changes in the current claim processing modules in MMIS.
+Exp	Worked on HP Quality Center 10.0 which include Defects Management, Test Plan and Dashboard.
+Exp	Talking to the client based on requirements of that particular defect, uploading document required, checking history, status notes, setting up resources to handle and fix it.
+Exp	Worked on Rational Requisite Pro application to handle various requirements including Functional requirements, High-level requirements, Non-functional requirements, Scope statement and User requirements.
+Exp	Provided online support to users for various applications such as IPCS (Internet Professional Claims Submission).
+Exp	Environment: HP ALM, JIRA, Salesforce, MS Office, Windows 7, MS Visio, HP SharePoint, MS Project, MS Visio, SQL, SOAP, XML, MMIS, Agile.
+Exp	Medica health Plans, Minnetonka, MN
+Exp	May 2013-MAY 2014
+Exp	Sr. Business Analyst
+Exp	Project was involved working on the design and configuration changes as per the PPACA (Patient protection and Affordable Care Act) in the current healthcare plans
+Exp	Roles and Responsibilities:
+Exp	Responsible for gathering and documenting Legislative, Business, Functional requirements for all the provisions and their impact on the existing products and systems.
+Exp	Responsible for integrating with Facets. Designing test scripts for testing of Claims in Development, Integration and production environment.
+Exp	Participated in the CORE (Committee on Operating Rules for Information Exchange) compliance process for the company.
+Exp	Responsible for creating test scenarios, scripting test cases using testing tool and defect management for Policy Management Systems, Payables/Receivables and Claims processing.
+Exp	Worked on the PPACA for various mandates such as Grandfather Rule, Rescissions, D-26, Pre Ex-19, Preventive Care, Operating Rules, and Early Retirees Fund etc.
+Exp	Wrote test cases and test scripts for the User Acceptance Testing.
+Exp	Performed Requirement Analysis and developed Use Cases and Activity Diagrams.
+Exp	Traced High Level Requirements (HLR) to Detailed Level Requirements (DLR) using MKS Integrity.
+Exp	Conducted meetings with SME's to understand current business process and performed Gap Analysis to meet future business needs.
+Exp	Created and managed project templates, use case project templates, requirement types and traceability relationships in MKS Integrity.
+Exp	Developed Systems Specifications document to define the impact of the new requirements on the existing system.
+Exp	Developed and managed creation of product documentation to communicate features, benefits, positioning and impacts to different audiences and ensured that documentation deliverables from various groups are produced as needed.
+Exp	Created Business Requirement Document (BRD), Functional Requirement Specification (FRS) document, User Requirement Specification (URS) and Change Request (CR) document for system application development.
+Exp	Environment:- SQL, Rational Unified Process (RUP), Rational Requisite Pro, Rational Rose, Clear Quest, Microsoft Visio, Windows Vista, Mercury Test-Director. Share Point,
+Exp	ENS Health, Colorado Springs, CO
+Exp	APR 2011-APR 2013
+Exp	Sr. Business Analyst
+Exp	Duties included building various applications for physicians, clearinghouses, billing services, and hospitals who submit or receive electronic claim data. Duties include working with the Web Based systems, Desktop Applications and other Clinical Applications.
+Exp	Roles and Responsibilities:
+Exp	Aided Valuable Information’s in the collection of User Requirements and Business Requirements to create the Business Requirement Documentation (BRDs), using MS Word and MS Visio that provided appropriate scope of work for technical team to develop prototype and overall system.
+Exp	Conducted AS-IS and TO-BE analysis and assisted in developed process models and systems integration structure.
+Exp	Conducted and facilitated Joint Application Development (JAD) sessions to reduce time spent in moving information between stakeholders and team members.
+Exp	Wrote test cases and test plans for the related and assigned scripts according to the test strategies defined in the project and testing team guidelines in Rational Quality Manager.
+Exp	Identified critical areas of business risk and modified business processes to reduce risk by using the Risk-Management Process.
+Exp	Knowledge of the complete EDI format used in electronic documentation which was part of the knowledge transfer program to the vendors as per the requirements.
+Exp	Worked with Source system Subject Matter Expert (SME) to ensure that the extracts are properly mapped. Used SQL for data mapping and querying.
+Exp	As part of the data mapping procedures, assisted in writing requirement document for ETL - Data Extraction, Data Analysis and Loading process of collected data.
+Exp	Involved in various types of Audits and the Financials involved through different stages.
+Exp	Gained Compliance audit experience due to exposure to the legal/audit consulting groups.
+Exp	Environment: MS Office, Rational Quality Manager, My SQL, MS Project, MS Visio, .Net, Mainframes and Windows XP
+Exp	SFHP, San Francisco, CA
+Exp	FEB2010– MAR 2011
+Exp	Business/Requirements Analyst
+Exp	San Francisco Health Plan (SFHP) is a licensed community health plan that provides affordable health care coverage to over 70,000 low and moderate-income families. Members have access to a full spectrum of medical services including preventive care, specialty care, hospitalization, prescription drugs and family planning services.
+Exp	Roles and Responsibilities:
+Exp	Worked with a cross functional and diverse team of business users and developers to enable accurate communication of requirements and ensure consensus.
+Exp	Attended the training sessions provided by SFHP to make sure that I have an understanding of all the modules in QNXT for example: Members, Providers, Claims, Utilization Management, Finance, Underwriting etc.
+Exp	Had meetings with business users and managers to understand the process what is required/to understand the AS IS process and providing them with the best solutions
+Exp	Conducted JAD sessions with management, SMEs, developers and users for open and pending issues.
+Exp	Worked on )
+Exp	Was involved in the documenting the BRDs for letters to be sent out to members. Had meetings with developers and managers to make sure that letters are coming out of QNXT using SSRS. Users were able to generate letters from reporting services or letters were sent directly to folders using subscription.
+Exp	Was involved in QA the reports/letters before user testing and was communicating with developers if correction needed.
+Exp	Facilitated User Acceptance Testing (UAT) with the stakeholders and the business users, and the errors discovered were fixed and then verified via regression testing.
+Exp	Used SharePoint to for documentation and saved all the BRD, Sign off documents and other documents in it.
+Exp	Environment: MS Office, Quality Center, SQL Server, MS Project, MS Visio, Unix, J2ee, Java, XML, Water fall, Windows XP
+PI	Avinash G
+PI	Mobile: 913-730-0694
+Sum	SUMMARY:
+Sum	8+ Years of experience in analysis, design, Implementation, development, and Maintenance of various Dynamic/Static web applications using Java/J2EE technologies.
+Sum	Experience and working knowledge of Agile Methodology (Scrum, extreme programming and Unified process), Rational Unified Process and Test driven development (TDD).
+Sum	Extensive experience in designing professional UI web applications using front-end technologies like HTML/HTML5, CSS/CSS3, JavaScript, XML, DHTML, XHTML, JQuery, AJAX, JSON, Angular JS, Backbone JS, Require JS, React JS and Bootstrap.
+Sum	Proficient in using AJAX for implementing dynamic Web Pages where the content was fetched via API calls and updated the DOM (JSON Parsing).
+Sum	Experience integrating web services with web clients written using client-side MVC frameworks such as Angular JS, EXT JS, Ember JS and Backbone JS.
+Sum	Experience with server-side frameworks like Node JS, Express JS.
+Sum	Experience in DOM (Document Object Model) to use in interacting with objects in HTML, XHTML and XML documents.
+Sum	Experience with Node JS along mean stack applications using Mongo DB, Ext Js and Angular Js.
+Sum	Used HTML Helper classes for rendering HTML controls, used JQuery, Ajax to GET & POST data.
+Sum	Experience in using ORM frameworks like Hibernate, IBATIS and JPA.
+Sum	Application Development experience using Core JAVA, Multi-Threading, Exception Handling, Serialization, Externalization, Collections framework, Generics etc.
+Sum	Experience in building web applications using SPRING framework features like MVC (Model View Controller), AOP (Aspect Oriented Programming), DAO (Data Access Object), Spring Boot, Spring Security, Spring Batch.
+Sum	Expertise in spring framework, include Spring IOC/Core, Spring DAO support, Spring ORM, Spring AOP, Spring Security, Spring MVC and Spring Integration.
+Sum	Experience in using JERSY along with Spring Container to create server side restful applications.
+Sum	Experience in Web Service Technologies like JAXP, JAXB, SOAP, WSDL, UDDI, Restful, Apache Cxf, JMS and Service Oriented Architecture (SOA).
+Sum	Experienced in using Log4j and good expertise in application build tools like ANT, Gradle and Maven.
+Sum	Experience in using the integrated development environments like Eclipse, Rational Application Developer, IBM Web Sphere Studio Application Developer (WSAD) and IntelliJ for Java/J2EE development.
+Sum	Hands on experience with an in-depth level of understanding in the strategy and practical implementation of AWS.
+Sum	Designed highly accessible, fault tolerant and cost effective and fault systems using multiple EC2 instances, Auto Scaling, Elastic Load Balance and AMIs.
+Sum	Proficient in TDD (Test Driven Development) by writing test cases using Karma, Jasmine.
+Sum	Experience in database development using My SQL, PL/SQL , Oracle, DB2, No SQL and SQL Server environments.
+Sum	Have knowledge on Dynamo DB, mostly in Cloud environment.
+Sum	Good experience on Mongo DB scaling across data centers and/or in-depth understanding of Mongo DB HA strategies, including replica sets.
+Sum	In depth knowledge of Cassandra and hands on experience with installing, configuring and monitoring Data Stax Enterprise cluster.
+Sum	Have worked on Backup and Recovery on Oracle, MySQL, PostgreSQL databases. I have experience in setting up automated scripts to run the backup.
+Sum	Experience in writing complex SQL Queries, Stored Procedures, Triggers, Cursors and Functions
+Sum	Worked on different Application Servers like Web Logic, Web Sphere, JBOSS Server and Web Server like Tomcat.
+Sum	Led team through examining the use of Docker to improve the efficiency of development and scalability of data streams and containerized micro services
+Sum	Experienced in Rabbit MQ, JMS and IBM MQ.
+Sum	Good experience on Design Patterns (J2EE) like Singleton, Factory Method, DAO, Session Facade, Front Controller, Service Locator and Delegate Pattern.
+Sum	Hands on experience in developing Selenium IDE/ Web driver/RC/Grid scripts using Java, JavaScript, Ant/ Maven build tools.
+Sum	Developed Applications using Rule Engines, Drools.
+Sum	Experienced in UNIX Shell Scripting.
+Sum	Experience in using Grunt and Gulp for build process.
+Sum	Experienced in unit testing using JUnit and Mockito.
+Sum	Experience in using Bower, NPM.
+Sum	Experience in using JIRA how to track, plan and analyze.
+Sum	Worked on continuous integration using Jenkins/Hudson
+Sum	Experience in using caching frameworks like Redis
+Sum	Experience in using version control tools like GIT, CVS and Clear Case
+Sum	Efficient team member with excellent work/time management skills, communications and interpersonal
+Sum	skills and ability to work under strict deadlines.
+Skill	TECHNICAL SKILLS:
+Edu	EDUCATION:
+Edu	Degree: Bachelor of Technology, Electronics and Communication Engineering, Jawaharlal Nehru Technological University, Kakinada, India.
+Exp	PROFESSIONAL EXPERIENCE:
+Exp	Client: State Government of New York, Albany, New York Nov 2015- Till Date
+Exp	Title: Sr. Java/UI developer
+Exp	Description: : eClaims is the New York State Workers' Compensation Board's implementation of an electronic claim reporting standard for reports of injury filings. The WCB has adopted a national standard for claims reporting from the International Association of Industrial Accident Boards and Commissions the standard uses Electronic Data Interchange, commonly known as EDI, so that data can be transmitted electronically between the WCB and its EDI Trading Partners quickly, efficiently, and cost-effectively.
+Exp	Responsibilities:
+Exp	Responsible for the analysis, documenting the requirements and architecting the application based on J2EE standards.
+Exp	Designed dynamic and browser compatible pages using HTML5, DHTML, CSS3, BOOTSTRAP and JavaScript.
+Exp	Used JavaScript libraries to create slider and page-turning animations on calendar widgets.
+Exp	Involved in developing web pages using Angular JS Framework and familiar with various Angular JS directives and services.
+Exp	Used Angular JS as frameworks to create single page applications (SPA) which can bind data to specific views and synchronize data with server using Sass, Less, Bootstrap, Angular JS.
+Exp	Responsible for Web UI development in JavaScript using JQuery, AngularJS and AJAX.
+Exp	Responsible for secure batch data flow to downstream systems using Middleware Java technologies.
+Exp	Developed Mean Stack from scratch including Mongo DB server (Mongoose Connector) setup and Express JS server development.
+Exp	Developed drag and drop document editing using React Js.
+Exp	Developed the JQuery callback functions to implement asynchronous communication using AJAX.
+Exp	Used the Java Collections API extensively in the application as security protection for XML, SOAP, REST and JSON to make a secure Web Deployment.
+Exp	Built backend REST API with Node JS, Express JS and also Implemented modules into Node JS to integrate with designs and requirement.
+Exp	GUI design and development using Java Swing, JFC Used for open source web testing.
+Exp	Implemented different Design patterns like DAO, Singleton Pattern and MVC architectural design pattern of Spring framework.
+Exp	Worked on the REST Web Services and used Spring Framework and developed the Spring Features like Spring Core, Spring IOC, Spring AOP, Spring Data Access, Spring web test, Spring MVC, Spring DAO, Spring Boot, Spring Batch, Spring Security, Spring Integration.
+Exp	Building RESTful services using Micro-services architecture with tools such as Spring-boot.
+Exp	Developing Intranet Web Application using J2EE architecture, using JSP to design the user interfaces and Hibernate for database connectivity.
+Exp	Development of Hibernate objects for data fetching for batch and front-end processing.
+Exp	Designed and developed the new features in the existing application to meet the customer's satisfaction.
+Exp	Used Hibernate, object relational-mapping (ORM) solution, technique of mapping data representation from MVC model to Oracle Relational data model with SQL-based scheme.
+Exp	Designed and developed the user interface screens, data base design changes and changes to user access modules.
+Exp	Responsible for implementation of java integration components for JBPM and DROOLs.
+Exp	Defined a message store architecture necessary to support drools rule engine input processing, scalability and recovery.
+Exp	Involved in writing Oracle PL/SQL Stored procedures, triggers and views.
+Exp	Implementing BPM processes in existing system using both Synchronous and Asynchronous Web Services.
+Exp	Leveraged AWS cloud services such as EC2; auto-scaling; and VPC (Virtual Private Cloud) to build secure, highly scalable and flexible systems.
+Exp	AWS is used to coordinate and manage the delivery of messages to the subscribers. Client side validations and server side validations are done according to the business needs.
+Exp	Extensively used core java concepts like collection frame work, multi threading, OOPS and Exception Handling.
+Exp	Managed the dependency packages by NPM/Bower.
+Exp	Wrote JUNIT test cases for web servers.
+Exp	Written test cases and done Unit testing execution with JASMINE and KARMA.
+Exp	Involved in CICD process using GIT, Nexus, Jenkins job creation, Maven build, Create Docker image and deployment in AWS environment.
+Exp	Converted our staging and Production environment from a handful AMI's to a single bare metal host running Docker.
+Exp	Involved with Sprint Planning, Sprint grooming, Allocation of User Stories using Jira.
+Exp	Used Log4J API for logging and debugging.
+Exp	Environment: Spring Core, Spring IOC, Spring MVC , JavaScript, JQuery, JSON, Spring DAO , Spring Boot , Spring Batch, Spring Security, Spring Integration, Spring-Hibernate integration framework, JSP, Oracle, PL/SQL, XML, AWS (EC2, VPC), Spring web flow, Drools, Maven, JUnit, REST web service, HTML, CSS, SASS, AJAX, Jira, Angular JS, NPM/BOWER.
+Exp	Client: Broadcom, Sunnyvale, California May 2014 - Oct 2015
+Exp	Title: Sr. Java/UI developer
+Exp	Description: Broadcom Limited is a diversified global semiconductor leader built on 50 years of innovation, collaboration and engineering excellence. With roots based in the rich technical heritage of technology powerhouses AT&T/Bell Labs, Lucent and Hewlett-Packard/Agilent, Broadcom focuses on technologies that connect our world.
+Exp	Responsibilities:
+Exp	As a Senior J2EE Developer assisted my team in developing two different Web-based applications
+Exp	Designed and developed the application using AGILE-SCRUM methodology.
+Exp	Used HTML, JavaScript, Angular JS, JQuery, AJAX, CSS, and Bootstrap as data and presentation.
+Exp	Developing & Customizing UI JavaScript Plug-in using JQuery and JSON.
+Exp	Created Mock-up designs and developed various functionalities with JavaScript and JQuery.
+Exp	Developed Model pop-ups with Angular JS for responsive web design on mobile devices.
+Exp	Wrote Rest services to feed data to an application with AngularJS framework.
+Exp	Developed a core component of Analytics with Node JS, Backbone JS.
+Exp	Developed user interface using JSP with JavaBeans, JSTL and Custom Tag Libraries, Javascript, CSS, JQuery, Node JS, HTML, SASS and Ajax to speed the application.
+Exp	Used Web Services using SOAP, WSDL, UDDI and JAX-WS programming model.
+Exp	Involved in implementation of enterprise integration with Web Services and Legacy Systems using SOAP and REST (Using Axis and Jersey frameworks).
+Exp	Designed and developed Micro-Services using (MEAN Stack) node.js, Mongo DB.
+Exp	Developed web services using SOAP, WSDL and Apache Axis, which helped communicating through different modules of the application.
+Exp	Involved in creating Restful web services using JAX-RS and JERSY tool.
+Exp	Involved in J2EE Design Patterns such as Data Transfer Object (DTO), DAO, Value Object and Template.
+Exp	Primarily focused on the spring components such as Spring MVC, Dispatcher Servlets, Controllers, Model and View Objects, View Resolver.
+Exp	Used Spring IOC, AOP, Spring Batch modules to integrate with the application.
+Exp	Generated DAO’s to map with database tables using Hibernate.
+Exp	Developed a multi-user web application using JSP, Servlet, JDBC, Spring and Hibernate framework to provide the needed functionality.
+Exp	Analyze, debug and fix issues related to thread locking, clustering, network connections, Swing client performance on customer's production environment
+Exp	Designed Interactive GUIs using Java Applets and Swing/JCF
+Exp	Developed Spring Beans and configured Spring using applicationContext.xml.
+Exp	Developing the web application using Core Java concepts like Collections, OO concepts, Exception handling for developing application modules
+Exp	Assisted Database Developers using PL/SQL for managing data associated with the tables in Oracle.
+Exp	Managed and maintained No SQL (Cassandra) databases in production domain.
+Exp	Uses Second Level Cache to enhance performance and Proper Memory Management.
+Exp	Developed application using JMS for sending and receiving Point-to-Point JMS Queue messages.
+Exp	Used Apache CXF as the Web Services framework to implement the REST APIs involved.
+Exp	Setup replication clusters with multiple nodes for MySQL and PostgresSQL.
+Exp	Database development required creation of new tables, SQL stored procedures, functions, views, indexes and constraints, triggers and required SQL tuning to reduce the response time in the application.
+Exp	Involved in designing different BPM patterns in order to address the complex business scenarios are part of solution and technical design.
+Exp	Built application to track unique users using Redis accross various data groupings.
+Exp	Created task handlers to expose the BPM processes to REST service calls in the process designer itself and integrated them with spring.
+Exp	Used Maven for generating system builds and Jenkins for continuous integration.
+Exp	Whenever a new github branch gets started, Jenkins, our Continuous Integration server, automatically attempts to build a new Docker container from it, The Docker container leverages Linux containers.
+Exp	Created WAR files from Maven and deployed them on Tomcat.
+Exp	Worked on Drools Rules Engine and Expectation Rule Engine for writing Business Rule Validation
+Exp	Wrote unit-testing codes using JUnit, resolved bugs and other defects using Firebug.
+Exp	Wrote JUNIT Test cases for Spring Controllers and Web Service Clients in Service Layer using Junit.
+Exp	Used Log 4j for debugging, testing and maintaining the system state.
+Exp	Using JIRA to manage the issues/project work flow.
+Exp	Environment: Spring, Hibernate, Web services, JAX-RS, JUNIT, SOAP, UI, SQL, JSP, JDBC, JSON, JavaScript, JQuery, AJAX, Html, CSS, Angular JS, PL/SQL, PostgressSql Maven, log4j, Jenkins, JIRA, JMS, APACHE AXIS, Apache CXF, GIT, UNIX, AGILE-SCRUM, Oracle, Tomcat, Drools.
+Exp	Client: NJM Insurance Group, Trenton, NJ. Nov 2013 - Apr 2014
+Exp	Title: Sr. JAVA/J2EE Developer
+Exp	Description: NJM was originally implemented in a mainframe and this project is responsible for converting from Mainframe to J2EE. The technologies used are Process Server for managing the business process and J2EE technologies for implementing the Application itself.
+Exp	Responsibilities:
+Exp	Actively involved in defining and designing the tiers of the applications and implementation using J2EE best design practices.
+Exp	Followed Agile Methodology in analyze, define, and document the application, which will support functional and business requirements. Coordinate these efforts with Functional Architects.
+Exp	Developed UI pages with JSP, Spring MVC, HTML5, CSS3, JavaScript, JQuery, and used Boot Strap for creating Responsive Web pages.
+Exp	Implemented scripting with AJAX and XML to dynamically refresh the page contents.
+Exp	Used JQuery to navigate to different pages of the application using DOM elements, and to create AJAX pages.
+Exp	Used AJAX and JSON to process asynchronous actions between front and back end.
+Exp	Actively involving in creating JavaScript function for user input validation and verification.
+Exp	Coded JavaScript for page functionality and Pop up Screens.
+Exp	Used Web Services using SOAP, WSDL, UDDI and JAX-WS programming model.
+Exp	Well versed with core Java concepts like Collections, Swing, Serialization and Servlets & JSP.
+Exp	Developed Micro-Service to provide RESTful API utilizing Spring Boot with Spring MVC.
+Exp	Implemented Spring MVC Architecture, Servlet targeting request module and flow of control generating JSP in Presentation layer.
+Exp	Used Spring IOC, AOP modules to integrate with the application.
+Exp	Developed and maintained elaborate service based architecture utilizing open source technologies like Hibernate ORM and Spring MVC Framework.
+Exp	Handled rule engine with JBoss Drools for developing business rules of the applications.
+Exp	Used various core java concepts such as Multi-Threading, Exception Handling, Collection API's to implement various features and enhancements.
+Exp	Developed DAO (Data Access Object) classes in order to access data from database.
+Exp	Developed ORM scripts for Hibernate to synchronize Domain Model and Relational Model.
+Exp	Developed complex Web Services and tailored JAX-RS API to suit the requirement.
+Exp	Involved in integration of claimant information with IBM MQ Resource Adapter for message queuing.
+Exp	Involved in writing the Java utility classes to convert MQ based control claimant information
+Exp	Installed and configured JBOSS server with My SQL persistence. Extracted rules data from the database and decision tables.
+Exp	Employed Redis to host centralized job queue for parallel servers to pull and distribute jobs among cluster of workers
+Exp	Implemented RDMS and MySQL as resource tier and developed MYSQL Stored procedures, Functions.
+Exp	Wrote unit-testing codes using JUnit.
+Exp	Writing Test cases using Mockito frameworks.
+Exp	Used Maven for generating system builds and Jenkins for continuous integration.
+Exp	Environment: J2EE, Hibernate, Spring MVC Framework, UML, Servlet, JSP, JSF, AJAX, DHTML, Java Script, JQuery, JSON, EJB (Session and Message Driven Beans), Eclipse , IBM MQ, My SQL, JBoss, Drools, JUnit, Mockito, Maven, Web services, DAO, Web Sphere.
+Exp	Client: Uhlig LLC, Overland Park, KS. Nov 2012- Oct 2013
+Exp	Title: UI Developer
+Exp	Description: Uhlig LLC and its subsidiaries have played a leading role in the growth of variable-content publishing, consistently redefining the traditional boundaries between print and electronic media. Today, its products range from rich, full-color periodicals to complex legal and financial documents, each of which is custom-produced for each of its readers using the company’s powerful online editing and content-management tools.
+Exp	Responsibilities:
+Exp	Interacting with the system analysts, business users for design & requirement clarifications.
+Exp	Development of UI models using HTML, JSP, JavaScript, AJAX and CSS.
+Exp	Implemented the presentation layer using JSP, JSP Tag Libraries (JSTL), HTML, CSS and JQuery. Also, Performed validations using validation framework for data inputs.
+Exp	Used AJAX to handle the user requests asynchronously and to have faster responses from the server by directly connecting to the server.
+Exp	Used RESTful services for publishing Web Service interfaces.
+Exp	Involved in writing XML validation classes using Struts validation framework.
+Exp	Worked on the JAVA Collections API for handling the data objects between the business layers and the front end.
+Exp	Developed the application using Struts to develop presentation tier and business layer.
+Exp	Used Hibernate extensively to have Database access mechanism with complex queries through Hibernate Query, Criteria interfaces.
+Exp	Extensively used SQL in constructing views, indexes, stored procedures, triggers, cursors, functions, relational database models.
+Exp	Developed Applications using Rule Engines, Drools. Explored Drools modules such as Drools Expert, and Drools Flow, which adds event processing capabilities to the platform.
+Exp	Used Singleton, Service Locator, Data Value Objects, and Data Access Objects Design Patterns in interacting between presentation, service and database components.
+Exp	Used WebSphere application server for deploying the application
+Exp	Used IBM MQ Series for messaging services for the users who want to become as registered users.
+Exp	Wrote various types of Business rules in the .drl i.e., drools file using Drools rule engine for business decision making.
+Exp	Involved in writing JUnit Test Cases and ANT Build Script.
+Exp	SVN version control system has been used to check-in and check-out the developed artifacts.
+Exp	Environment: Java, J2EE Design Patterns, XML, CSS3, Web Sphere, Struts, Web Services, JSP, JSTL, EJB, Servlet, AJAX, Hibernate, RAD , IBM MQ Series, Rest, SQL Server, Drools, Unix, UML.
+Exp	Client: ICICI Bank, Hyderabad, India Apr 2010 - Oct 2012
+Exp	Title: Java Developer
+Exp	Description: ICICI Bank is an Indian multinational banking and financial services company. It offers a wide range of banking products and financial services for corporate and retail customers through a variety of delivery channels and specialized subsidiaries in the areas of investment banking, life, non-life insurance, venture capital and asset management. Some other information like account payee details are maintained in the online banking database.
+Exp	Responsibilities:
+Exp	Developed the front end browser based screens with JAVA and J2EE technologies like JSP, Servlets, JavaScript, HTML and CSS form presentation layer.
+Exp	Developed web application using JSP, Servlet, Struts and integrating the application using Java Messaging Service API and Enterprise Java Bean to integrate with the backend systems using XML.
+Exp	Processing XML files using SAX parsers and transformations using XSLT.
+Exp	Developed JSP's with Struts custom tags and implemented JavaScript validation of data
+Exp	Used JDBC to connect to the oracle database and JNDI to lookup administered objects.
+Exp	Developed Struts forms and actions for validation of user request data and application functionality.
+Exp	Wrote the MDB (Message Driven Bean) stuff to perform capture the response messages from the backend.
+Exp	Used business delegate to call EJB from struts action class.
+Exp	Designed and developed numerous Session Beans and deployed on WebLogic Application web Server.
+Exp	Implemented DAO layer using IBATIS and wrote queries for persisting demand Core Banking related information from the backend system using Query tool (Oracle).
+Exp	Developed the Login screen so that only authorized and authenticated administrators can only access the application.
+Exp	Developed Authentication and Authorization modules where authorized persons can only access the inventory related operations.
+Exp	Done automaton for build process using ANT Build scripts and handled all the releases and delivery to the client.
+Exp	Environment: EJB, Servlet, JavaScript, Struts, Java, Web logic, XML, IBATIS, JSP, JBOSS, ANT, Eclipse, Oracle.
+Exp	Client: Infotech, India. August 2008 – Mar 2010
+Exp	Title: Java Developer
+Exp	Description: Infotech Enterprises focus includes aerospace, defense, rail transportation, off-highway & industrial, power generation, mining, oil & gas, communications, utilities, geospatial, semiconductor and medical technology. We align closely with the business needs, goals, culture, and core values of our clients. This reflects in the deep, long-standing relationships we have developed and sustained with some of the leading names in these industries.
+Exp	Responsibilities:
+Exp	Analyzed business requirements, participated in technical design, development and testing of various modules assigned.
+Exp	Worked on Design, UI, HTML, CSS, JQuery, accessibility, and optimization.
+Exp	Translated designs and style guides into functional user interfaces, ensuring cross browser compatibility, performance and robustness.
+Exp	Converted wireframes and mockups for new web interface for a network analysis virtual appliance.
+Exp	Worked with full UI control of HTML/CSS, maintaining code and cleanliness.
+Exp	Created some prototype to implement some of the latest features of HTML and CSS.
+Exp	Developed presentation tier as HTML, JSPs using Struts Framework.
+Exp	Extensively worked with making calls to APIs to fetch the data from the backend as JSON response and parse it on the UI for DOM/CSS Manipulation.
+Exp	Developed JSPs, Servlets, and EJBs in the Struts Framework to effectively handle the workflow of the application
+Exp	Developed the middle tier using EJBs Stateless Session Bean, Java Servlets.
+Exp	Entity Beans used for accessing data from the MySQL database.
+Exp	Implemented and Updating the database Tables, Packages, procedures, functions views
+Exp	Worked on Hibernate for data persistence.
+Exp	Improved page load performance by analyzing content and making adjustments to the code (by following optimization standards).
+Exp	Worked with complete redesigns of a daily events website and focused on improving readability, utility, and overall UX.
+Exp	Worked closely with QA team to understand the reported defects and fix them.
+Exp	Environment: Java, Hibernate, Struts, EJBs, JSP, Servlet, Junit, ANT, MySQL, log4j, JSON, HTML, JavaScript, JQuery.
+PI	Adelina Erimia, PMP, Six Sigma Green Belt, SMC
+PI	469-331-7851 erimia@msn.com
+PI	PROJECT MANAGER
+Exp	Experienced project manager offering over 10 years of successful leading diverse projects in the IT, Construction and Insurance industries; PMP, Six Sigma Green Belt and Scrum Master certified. Member of PMI Savannah Chapter Board of Directors.
+Exp	Business strategist; plan and manage projects aligning business goals with technology solutions to drive process improvements, competitive advantage and bottom-line gains.
+Exp	Excellent communicator; leverage business and financial acumen to communicate effectively with client executives and their respective teams.
+Exp	Expert in project management methodologies. Able to manage large project teams and known for high-quality deliverables that meet or exceed timeline and budgetary targets.
+Exp	Career Progression
+Exp	Project Management Institute (PMI), Savannah Chapter Savannah, GA 12/2016 – Present
+Exp	Project Manager/VP of Volunteers
+Exp	▪ Chairing the planning committee for the “2018 Meet me in Savannah Leadership Conference”.
+Exp	▪ Defining conference goals, objectives and target audience.
+Exp	▪ Recruiting conference committee/assigning preliminary roles and responsibilities.
+Exp	▪ Developing initial budget for each component and pricing model for delegate fees.
+Exp	▪ Communicating/releasing final conference agenda and executing/monitoring sponsorship deliverables.
+Exp	▪ Developing marketing plan and objectives and identifying logistics needs.
+Exp	ATN international Rincon, GA 04/2016 – 11/2016
+Exp	IT Project Manager/Billing Support Manager
+Exp	▪ Managed the Billing Support Team for One Communications – cellular, internet and cable service provider in Bermuda with 4 direct reports.
+Exp	▪ Led large packaged application implementation project for the billing system.
+Exp	▪ Introduced, trained and mentored the local office in Project Management methodology and tools.
+Exp	▪ Executed process improvements, software upgrades, re-branding and integration projects.
+Exp	▪ Performed QA and UAT testing. ▪ Ensured that Billing Support Team members are maintaining the availability, integrity and accuracy of One Communications systems.
+Exp	▪ Monitored internal tracking systems to ensure that customer issues are getting resolved in the appropriate time frames.
+Exp	HCL America (Gulfstream Aerospace) Savannah, GA 8/2012 – 12/2015
+Exp	IT Project Manager
+Exp	▪ Planned, executed and finalized infrastructure IT projects per strict deadlines and within budget.
+Exp	▪ Worked with project sponsor and stakeholders to understand and document scope, goals, deliverables, resources and timelines, to ensure projects deliver on time, scope, budget, quality and within expectations and strategic vision.
+Exp	▪ Tracked and reported on project milestones and provided status reports to sponsor and management.
+Exp	▪ Developed tools and best practices for project management, project execution and project transition and continuity.
+Exp	▪ Managed project team and third-party contractors, identified, assessed and minimized project risks until successful project completion.
+Exp	▪ Vendor management – selected vendors trough RFP projects, keeping track of bids, vendor performance, previous contract terms and alternative providers.
+Exp	▪Coordinate project management requirements with Legal, EHS, Real Estate and Facilities for IT infrastructure internal and international group moves and new office set-ups.
+Exp	•Led SCADA software implementation project at various Gulfstream water pump locations.
+Exp	•Directed in collaboration with Verizon Wireless a major improvement project (3 million dollars budget) that involved installing fiber optic cables, replacing antennas, connecting to network, reviewing contracts, keeping track and selecting subcontractors and third-party vendors.
+Exp	•Drove various projects such as: voice command implementation, major hardware replacement (over 1,200 computers), security camera replacement and security software implementation, throughout all Gulfstream locations in the US.
+Exp	Craiovan Consulting SRL Timisoara, Romania 6/2009 – 5/2011
+Exp	Project Manager Consultant
+Exp	▪ Managed international relocation, construction and remodel projects.
+Exp	▪ Provided support with the preparation of design, development and construction of new and major renovation projects.
+Exp	▪ Interacted with governmental agencies, utilities and sub-contractors to implement the company’s real estate requirements.
+Exp	▪ Performed punch list completion, financial close-out and transfer of property to customer.
+Exp	▪ Defined and implemented project standards and processes for all the projects.
+Exp	▪ Tracked projected versus actual project performance and informed management of accomplishments and major problem areas as well as budget and schedule status.
+Exp	▪ Conducted post implementation project reviews to evaluate sustaining support and document lessons learned. ▪ Led cross-functional and virtual teams and meetings.
+Exp	UnitedHealth Group Hartford, CT 8/2002 - 5/2008
+

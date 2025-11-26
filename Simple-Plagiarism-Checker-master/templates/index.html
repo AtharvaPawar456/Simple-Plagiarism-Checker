@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plagiarism Checker</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto py-10">
+        <div class="bg-white p-6 rounded shadow-md max-w-xl mx-auto">
+            <h1 class="text-2xl font-bold text-center mb-6">Plagiarism Checker</h1>
+            <form action="/" method="POST">
+                <label for="query" class="block text-gray-700 font-medium">Input Text:</label>
+                <textarea name="query" id="query" rows="8" class="w-full p-3 border rounded focus:outline-none focus:ring focus:ring-blue-300" autofocus>{{ query }}</textarea>
+                <button type="submit" class="bg-blue-500 text-white px-4 py-2 mt-4 rounded hover:bg-blue-600 w-full">
+                    Check Plagiarism
+                </button>
+            </form>
+            <div class="mt-6">
+                <h3 class="text-lg font-semibold text-gray-700">Results:</h3>
+                <p class="text-gray-800 whitespace-pre-line ml-2">{{ output }}</p>
+                {% if resulttime %}
+                  <p class="text-gray-800 whitespace-pre-line mt-4"><b>Response Time</b> : {{ resulttime }} sec</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</body>
+</html>
